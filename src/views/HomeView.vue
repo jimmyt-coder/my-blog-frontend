@@ -144,11 +144,7 @@
         <h1>EXPLORE THE WORLD</h1>
         <p>Real stories from real travelers</p>
       </div>
-    </div>
-
-    <video autoplay muted loop playsinline class="bg-video">
-        <source src="../assets/travel.mp4" type="video/mp4">
-    </video>
+    </div>   
 
     <div class="blog-container">
       <h2 class="section-title">Latest Journeys</h2>
